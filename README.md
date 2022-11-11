@@ -1,5 +1,9 @@
 ![BrightCoders](images/logo-bc.png)
 
+# Deployment
+
+https://karvaroz.github.io/-reto-diseno-web-brightCoders/
+
 # Social Proof
 
 El propósito de este ejercicio es conocer tus habilidades de diseño web. No vamos a evaluar que tan experto eres, sino lo que buscamos es comprobar que tienes las bases necesarias para poder aprovechar al máximo nuestro bootcamp
